@@ -1,0 +1,36 @@
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\ExpertSystem_The.csprojResolveAssemblyReference.cache
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\ExpertSystem_The.csproj.GenerateResource.Cache
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.exe
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\HeChuyenGia_Nhom2.pdb
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe.config
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.exe
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\bin\Debug\HeChuyenGia_Nhom2.pdb
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\ExpertSystem_The.Main.resources
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\ExpertSystem_The.Rule_manager.resources
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\ExpertSystem_The.Events_manager.resources
+F:\LUAN VAN\tài liệu khác\HCGNHOM1\HeChuyenGia_Nhom2\HeChuyenGia_Nhom16\obj\Debug\ExpertSystem_The.tuvan.resources
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\bin\Debug\HeChuyenGia_Nhom2.exe.config
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\obj\Debug\HeChuyenGia_Nhom2.exe
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\obj\Debug\HeChuyenGia_Nhom2.pdb
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\bin\Debug\HeChuyenGia_Nhom2.exe
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\bin\Debug\HeChuyenGia_Nhom2.pdb
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.csprojResolveAssemblyReference.cache
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.Main.resources
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\obj\Debug\HeChuyenGia_Nhom2.Properties.Resources.resources
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.Rule_manager.resources
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.Events_manager.resources
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.tuvan.resources
+F:\LUAN VAN\Bài làm Luận văn\Expert_System_The\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.csproj.GenerateResource.Cache
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.csprojResolveAssemblyReference.cache
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.Main.resources
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.Rule_manager.resources
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.Events_manager.resources
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.tuvan.resources
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.csproj.GenerateResource.Cache
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\bin\Debug\ExpertSystem_The.exe.config
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\bin\Debug\ExpertSystem_The.exe
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\bin\Debug\ExpertSystem_The.pdb
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.Properties.Resources.resources
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.exe
+F:\LUAN VAN\phan mem 1\Expert_System_The1\Expert_System_The1\EXPS_The\EXP_the\obj\Debug\ExpertSystem_The.pdb
